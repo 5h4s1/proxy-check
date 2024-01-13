@@ -1,0 +1,2 @@
+https://api.proxyscrape.com/?request=getproxies&proxytype=http&timeout=5000&country=all&ssl=all&anonymity=all
+https://proxyspace.pro/http.txt
